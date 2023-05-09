@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<!--
-**itzalif007/itzalif007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+’’’
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+’’’
 
-
-[![AHAMEED]
+[_AHAMEED_]
 
 
 ![20200808_160757](https://github.com/itzalif007/itzalif007/blob/8396f30838113f4ee5ceef40639afe6f420bef4e/t.gif)
@@ -53,6 +51,6 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://dev.to/dev.to.ag420gamingyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to.ag420gamingyt" height="30" width="40" /></a>
 <a href="https://fb.com/ag420gamingyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ag420gamingyt" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ag 420 gaming yt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ag 420 gaming yt" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/ag 420 gaming yt]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ag 420 gaming yt" height="30" width="40" /></a>
 </p>
 
