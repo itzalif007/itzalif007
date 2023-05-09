@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 
 
 
-[![AHAMEED]([https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss](https://github.com/itzalif007/itzalif007/blob/8396f30838113f4ee5ceef40639afe6f420bef4e/t.gif)](https://codegrills.in)
+[![AHAMEED]
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+(https://codegrills.in)
+
+<img align="right" alt="Coding" width="400" src="[https://github.com/itzalif007/itzalif007/blob/8396f30838113f4ee5ceef40639afe6f420bef4e/t.gif">
 
 ![20200808_160757](https://github.com/itzalif007/itzalif007/blob/acbd8bde4cacbc53aaab3ec613696c4e86c3fa70/Screenshot_2023_0509_040909.jpg)
 
