@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 [![AHAMEED]
 
-(https://codegrills.in)
 
-<img align="right" alt="Coding" width="400" src="[https://github.com/itzalif007/itzalif007/blob/8396f30838113f4ee5ceef40639afe6f420bef4e/t.gif">
+![20200808_160757](https://github.com/itzalif007/itzalif007/blob/8396f30838113f4ee5ceef40639afe6f420bef4e/t.gif)
 
+https://github.com/itzalif007/itzalif007/blob/acbd8bde4cacbc53aaab3ec613696c4e86c3fa70/Screenshot_2023_0509_040909.jpg
 ![20200808_160757](https://github.com/itzalif007/itzalif007/blob/acbd8bde4cacbc53aaab3ec613696c4e86c3fa70/Screenshot_2023_0509_040909.jpg)
 
 <h1 align="center">Hi 👋, I'm Ahameed</h1>
