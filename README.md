@@ -51,6 +51,6 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://dev.to/dev.to.ag420gamingyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to.ag420gamingyt" height="30" width="40" /></a>
 <a href="https://fb.com/ag420gamingyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ag420gamingyt" height="30" width="40" /></a>
-<a href="[https://www.youtube.com/c/ag 420 gaming yt]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ag 420 gaming yt" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/ag 420 gaming yt] (https://youtube.com/@AG420GamingYTALIF)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ag 420 gaming yt" height="30" width="40" /></a>
 </p>
 
