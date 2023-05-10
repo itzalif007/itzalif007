@@ -6,6 +6,8 @@
 
 </p>
 
+![20200808_160757](https://github.com/itzalif007/Dude/blob/357eb0b224894afd4766cf9891c0128e7eddc0b2/Screenshot_20230510_210232.jpg)
+
 10%
 █▒▒▒▒▒▒▒ nice ✔
 
