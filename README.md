@@ -80,7 +80,10 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzalif007&" alt="itzalif007" /></p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-![20200808_160757](https://github.com/itzalif007/itzalif007/blob/25e7da14d3ff925b6180118d548b4c38703cf500/IMG_20230513_104414.jpg)
+
+
+![20200808_160757](https://github.com/itzalif007/itzalif007/blob/8396f30838113f4ee5ceef40639afe6f420bef4e/t.gif)
+
 
 - 📫 How to reach me **ag420gamingyt@gmail.com**
 
