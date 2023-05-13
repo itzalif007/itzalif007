@@ -94,3 +94,6 @@ Here are some ideas to get you started:
 <a href="[https://www.youtube.com/c/ag 420 gaming yt] (https://youtube.com/@AG420GamingYTALIF)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ag 420 gaming yt" height="30" width="40" /></a>
 </p>
 
+#CP-DUDE
+#agnoob
+#etc
