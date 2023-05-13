@@ -6,7 +6,7 @@
 
 </p>
 
-![20200808_160757](https://github.com/itzalif007/Dude/blob/357eb0b224894afd4766cf9891c0128e7eddc0b2/Screenshot_20230510_210232.jpg)
+![20200808_160757](https://github.com/itzalif007/itzalif007/blob/2e295d80fdacefb8c9370136c75edaf65cce169d/IMG_20230513_104414.jpg)
 
 10%
 █▒▒▒▒▒▒▒ nice ✔
@@ -82,8 +82,9 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-![20200808_160757](https://github.com/itzalif007/itzalif007/blob/2e295d80fdacefb8c9370136c75edaf65cce169d/IMG_20230513_104414.jpg)
 
+
+![20200808_160757](https://github.com/itzalif007/Dude/blob/357eb0b224894afd4766cf9891c0128e7eddc0b2/Screenshot_20230510_210232.jpg)
 
 - 📫 How to reach me **ag420gamingyt@gmail.com**
 
